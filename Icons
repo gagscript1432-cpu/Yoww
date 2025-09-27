@@ -15,7 +15,6 @@ return {Spritesheets = {
 	["7"] = "rbxassetid://93333318277178",
 	["8"] = "rbxassetid://133344323912973",
 	["9"] = "rbxassetid://120008128000515",
-    ["17"] = "rbxassetid://1034781561",
 }, Icons = {
 		["a-arrow-down"] = {
 			ImageRectPosition = Vector2.new(0, 0),
